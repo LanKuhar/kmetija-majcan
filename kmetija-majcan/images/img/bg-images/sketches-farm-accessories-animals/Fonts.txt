@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: Mathlete
+Author: Mattox
+Url: http://www.fontsquirrel.com/fonts/mathlete
+
+Font: Jenna Sue
+Author: Jenna Sue Design
+Url: http://www.fontsquirrel.com/fonts/jenna-sue
